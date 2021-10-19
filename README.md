@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jose-Monagas
 - 👀 I’m interested in Data Analytics, Business Intelligence, Data Sciende and Machine Learning. 
-- 🌱 I just finished the 24 weeks Data Analytics boot camp at Columbia University and I'm actively seeking for job opportunities.
+- 🌱 I just finished the 24 weeks Data Analytics boot camp at Columbia University.
 - 📫 How to reach me:
 Josemonagas212@gmail.com 
 linkedIn : [linkedIn](https://www.linkedin.com/in/jose-monagas-523183b3/)
