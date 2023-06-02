@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jose-Monagas
-- 👀 I’m a Data Analytics and I'm currently doing a Software Engineeing boot camp 
+- 👀 I’m a Data Analyst and I'm currently doing a Software Engineeing boot camp 
 - 📫 How to reach me:
 josemonagas212@gmail.com 
 LinkedIn : [LinkedIn](https://www.linkedin.com/in/jose-monagas-523183b3/)
